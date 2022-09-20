@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ghotube./static/css/main.073c9b0a.css",
+    "main.js": "/ghotube./static/js/main.0a630a2d.js",
+    "static/js/787.a7965ec5.chunk.js": "/ghotube./static/js/787.a7965ec5.chunk.js",
+    "static/media/logo.svg": "/ghotube./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ghotube./index.html",
+    "main.073c9b0a.css.map": "/ghotube./static/css/main.073c9b0a.css.map",
+    "main.0a630a2d.js.map": "/ghotube./static/js/main.0a630a2d.js.map",
+    "787.a7965ec5.chunk.js.map": "/ghotube./static/js/787.a7965ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a630a2d.js"
+  ]
+}
